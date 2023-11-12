@@ -1,0 +1,122 @@
+2022-12-05 12:06:03	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-05 19:46:51	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-06 10:05:11	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-08 14:59:51	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-08 15:40:50	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-08 15:55:24	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-08 17:44:30	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-08 18:00:17	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-09 09:52:42	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-09 18:08:58	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: ::1)
+2022-12-09 18:09:24	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-09 19:41:23	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-09 19:46:24	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: ::1)
+2022-12-09 19:48:14	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-09 23:37:54	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: ::1)
+2022-12-09 23:43:08	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-10 00:28:41	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: ::1)
+2022-12-10 00:30:06	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-10 00:30:28	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: ::1)
+2022-12-10 00:30:56	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-10 00:31:37	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: ::1)
+2022-12-10 00:31:56	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-10 00:32:22	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: ::1)
+2022-12-10 00:32:36	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-10 09:50:05	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-10 10:05:22	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-10 10:36:52	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-10 14:49:57	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: ::1)
+2022-12-10 14:50:23	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-10 18:11:02	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-10 18:30:47	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: ::1)
+2022-12-10 18:31:21	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-10 18:38:35	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-11 17:05:44	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-11 19:17:59	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: ::1)
+2022-12-11 19:18:55	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-11 19:30:39	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: ::1)
+2022-12-11 19:31:12	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-11 19:36:21	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: ::1)
+2022-12-11 19:36:40	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-11 19:42:00	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: ::1)
+2022-12-11 19:42:23	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-11 19:44:08	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: ::1)
+2022-12-11 19:44:24	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-11 19:49:12	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: ::1)
+2022-12-11 19:50:51	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-11 20:54:14	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: ::1)
+2022-12-11 20:54:45	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-12 09:46:26	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-12 18:16:57	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-12 22:27:43	guest	http://localhost/demo/processwire-master/processwire/login/	Error: Failed login for 'admin' - Invalid password
+2022-12-12 22:27:56	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-13 09:53:13	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-13 15:17:07	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-13 19:26:28	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-13 21:15:38	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: ::1)
+2022-12-14 09:46:35	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-14 12:38:43	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: ::1)
+2022-12-14 12:39:03	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-14 19:18:46	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-15 09:47:47	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-15 13:10:57	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: ::1)
+2022-12-15 13:11:13	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-15 17:33:05	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: ::1)
+2022-12-15 17:33:35	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-15 17:34:23	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: ::1)
+2022-12-15 17:34:55	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-15 17:35:21	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: ::1)
+2022-12-15 17:36:50	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-15 17:45:06	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: ::1)
+2022-12-15 17:46:03	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-15 19:29:47	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-15 19:32:39	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: ::1)
+2022-12-15 19:33:20	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-16 10:24:02	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-16 13:25:53	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-16 15:24:22	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: ::1)
+2022-12-16 15:24:47	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-16 15:26:49	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: ::1)
+2022-12-16 15:27:18	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-16 15:41:48	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-16 19:06:11	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-16 21:05:33	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-17 09:49:16	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-18 10:19:52	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-18 19:31:27	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-19 10:04:54	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-19 19:42:40	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-19 19:47:11	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-20 09:51:21	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-20 19:12:16	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-20 19:59:50	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: ::1)
+2022-12-20 20:00:10	guest	http://localhost/demo/processwire-master/processwire/login/	Error: Failed login for 'admin' - Invalid password
+2022-12-20 20:00:16	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-21 09:42:56	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-21 12:04:01	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: ::1)
+2022-12-21 12:26:49	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-22 12:29:43	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-22 15:42:30	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: ::1)
+2022-12-22 17:44:31	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-22 20:40:42	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-23 10:01:35	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-23 11:48:29	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: ::1)
+2022-12-23 12:02:00	admin	http://localhost/demo/processwire-master/processwire/login/?id=1039	Successful login for 'admin'
+2022-12-23 13:06:51	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: ::1)
+2022-12-23 13:07:53	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-23 19:45:55	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-23 19:53:34	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-23 20:05:31	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: ::1)
+2022-12-23 20:06:39	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-26 10:02:26	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-26 10:12:17	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: ::1)
+2022-12-26 13:06:51	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-26 13:06:59	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: ::1)
+2022-12-26 13:08:45	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-26 15:27:01	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: ::1)
+2022-12-26 15:28:04	admin	http://localhost/demo/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-26 15:53:50	admin	http://localhost/TravelBlog/processwire-master/processwire/login/	Successful login for 'admin'
+2022-12-26 15:55:15	admin	http://localhost/TravelBlog/processwire-master/processwire/login/	Successful login for 'admin'
+2023-01-08 18:10:34	guest	http://localhost/TravelBlog/processwire-master/processwire/login/	Error: Failed login for 'admin' - Invalid password
+2023-01-08 18:10:44	guest	http://localhost/TravelBlog/processwire-master/processwire/login/	Error: Failed login for 'admin' - Invalid password
+2023-01-08 18:10:52	admin	http://localhost/TravelBlog/processwire-master/processwire/login/	Successful login for 'admin'

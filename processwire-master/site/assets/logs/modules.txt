@@ -1,0 +1,39 @@
+2022-12-05 12:05:44	?	?	Saved module info caches
+2022-12-05 12:05:44	?	?	Found 2 module(s) missing file: FieldtypeNumber => D:/XAMPP/htdocs/demo/processwire-master/site/modules/FieldtypeNumber/FieldtypeNumber.module, ProcessPage => D:/XAMPP/htdocs/demo/processwire-master/site/modules/ProcessPage/ProcessPage.module
+2022-12-05 12:05:44	guest	http://localhost/demo/processwire-master/http404/	Saved module info caches
+2022-12-05 12:05:44	guest	http://localhost/demo/processwire-master/http404/	Found 2 module(s) missing file: FieldtypeNumber => D:/XAMPP/htdocs/demo/processwire-master/site/modules/FieldtypeNumber/FieldtypeNumber.module, ProcessPage => D:/XAMPP/htdocs/demo/processwire-master/site/modules/ProcessPage/ProcessPage.module
+2022-12-05 12:05:45	guest	http://localhost/demo/processwire-master/http404/	Installed module 'ProcessRecentPages'
+2022-12-05 12:05:45	guest	http://localhost/demo/processwire-master/http404/	Saved module info caches
+2022-12-05 12:05:45	guest	http://localhost/demo/processwire-master/http404/	Found 2 module(s) missing file: FieldtypeNumber => D:/XAMPP/htdocs/demo/processwire-master/site/modules/FieldtypeNumber/FieldtypeNumber.module, ProcessPage => D:/XAMPP/htdocs/demo/processwire-master/site/modules/ProcessPage/ProcessPage.module
+2022-12-05 12:05:45	guest	http://localhost/demo/processwire-master/http404/	Saved module info caches
+2022-12-05 12:05:45	guest	http://localhost/demo/processwire-master/http404/	Found 2 module(s) missing file: FieldtypeNumber => D:/XAMPP/htdocs/demo/processwire-master/site/modules/FieldtypeNumber/FieldtypeNumber.module, ProcessPage => D:/XAMPP/htdocs/demo/processwire-master/site/modules/ProcessPage/ProcessPage.module
+2022-12-05 12:05:45	guest	http://localhost/demo/processwire-master/http404/	Installed module 'AdminThemeUikit'
+2022-12-05 12:05:45	guest	http://localhost/demo/processwire-master/http404/	Saved module info caches
+2022-12-05 12:05:45	guest	http://localhost/demo/processwire-master/http404/	Found 2 module(s) missing file: FieldtypeNumber => D:/XAMPP/htdocs/demo/processwire-master/site/modules/FieldtypeNumber/FieldtypeNumber.module, ProcessPage => D:/XAMPP/htdocs/demo/processwire-master/site/modules/ProcessPage/ProcessPage.module
+2022-12-05 12:05:50	guest	http://localhost/demo/processwire-master/processwire/login/	Saved module info caches
+2022-12-05 12:05:50	guest	http://localhost/demo/processwire-master/processwire/login/	Found 2 module(s) missing file: FieldtypeNumber => D:/XAMPP/htdocs/demo/processwire-master/site/modules/FieldtypeNumber/FieldtypeNumber.module, ProcessPage => D:/XAMPP/htdocs/demo/processwire-master/site/modules/ProcessPage/ProcessPage.module
+2022-12-05 12:05:50	guest	http://localhost/demo/processwire-master/processwire/login/	Installed module 'ProcessLogger'
+2022-12-05 12:05:51	guest	http://localhost/demo/processwire-master/processwire/login/	Saved module info caches
+2022-12-05 12:05:51	guest	http://localhost/demo/processwire-master/processwire/login/	Found 2 module(s) missing file: FieldtypeNumber => D:/XAMPP/htdocs/demo/processwire-master/site/modules/FieldtypeNumber/FieldtypeNumber.module, ProcessPage => D:/XAMPP/htdocs/demo/processwire-master/site/modules/ProcessPage/ProcessPage.module
+2022-12-05 12:05:51	guest	http://localhost/demo/processwire-master/processwire/login/	Installed module 'InputfieldIcon'
+2022-12-05 12:05:51	guest	http://localhost/demo/processwire-master/processwire/login/	Saved module info caches
+2022-12-05 12:05:51	guest	http://localhost/demo/processwire-master/processwire/login/	Found 2 module(s) missing file: FieldtypeNumber => D:/XAMPP/htdocs/demo/processwire-master/site/modules/FieldtypeNumber/FieldtypeNumber.module, ProcessPage => D:/XAMPP/htdocs/demo/processwire-master/site/modules/ProcessPage/ProcessPage.module
+2022-12-05 12:06:05	?	?	Saved module info caches
+2022-12-05 12:06:05	?	?	Found 2 module(s) missing file: FieldtypeNumber => D:/XAMPP/htdocs/demo/processwire-master/site/modules/FieldtypeNumber/FieldtypeNumber.module, ProcessPage => D:/XAMPP/htdocs/demo/processwire-master/site/modules/ProcessPage/ProcessPage.module
+2022-12-05 12:06:06	?	?	Saved module info caches
+2022-12-05 12:06:06	?	?	Found 2 module(s) missing file: FieldtypeNumber => D:/XAMPP/htdocs/demo/processwire-master/site/modules/FieldtypeNumber/FieldtypeNumber.module, ProcessPage => D:/XAMPP/htdocs/demo/processwire-master/site/modules/ProcessPage/ProcessPage.module
+2022-12-05 12:06:07	?	?	Saved module info caches
+2022-12-05 12:06:07	?	?	Found 2 module(s) missing file: FieldtypeNumber => D:/XAMPP/htdocs/demo/processwire-master/site/modules/FieldtypeNumber/FieldtypeNumber.module, ProcessPage => D:/XAMPP/htdocs/demo/processwire-master/site/modules/ProcessPage/ProcessPage.module
+2022-12-05 12:09:42	admin	http://localhost/demo/processwire-master/processwire/setup/template/edit?id=43	Installed module 'InputfieldTextTags'
+2022-12-05 12:09:43	admin	http://localhost/demo/processwire-master/processwire/setup/template/edit?id=43	Saved module info caches
+2022-12-05 12:54:48	admin	http://localhost/demo/processwire-master/processwire/setup/field/edit?id=98	Installed module 'InputfieldToggle'
+2022-12-05 12:54:49	admin	http://localhost/demo/processwire-master/processwire/setup/field/edit?id=98	Saved module info caches
+2022-12-05 15:11:20	admin	http://localhost/demo/processwire-master/processwire/module/	Installed module 'PageFrontEdit'
+2022-12-05 15:11:22	admin	http://localhost/demo/processwire-master/processwire/module/	Saved module info caches
+2022-12-06 10:23:25	admin	http://localhost/demo/processwire-master/processwire/module/	Installed module 'ProcessPageClone'
+2022-12-06 10:23:26	admin	http://localhost/demo/processwire-master/processwire/module/	Saved module info caches
+2022-12-06 10:57:39	admin	http://localhost/demo/processwire-master/processwire/setup/field/edit?id=104&modal=1	Installed module 'InputfieldPageAutocomplete'
+2022-12-06 10:57:40	admin	http://localhost/demo/processwire-master/processwire/setup/field/edit?id=104&modal=1	Saved module info caches
+2022-12-09 11:33:22	admin	http://localhost/demo/processwire-master/processwire/module/	Installed module 'InputfieldRepeater'
+2022-12-09 11:33:22	admin	http://localhost/demo/processwire-master/processwire/module/	Installed module 'FieldtypeRepeater'
+2022-12-09 11:33:23	admin	http://localhost/demo/processwire-master/processwire/module/	Saved module info caches
