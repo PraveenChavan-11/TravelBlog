@@ -62,3 +62,15 @@
 26. To share an article on social media, log in to the specific platform.
 
 27. Explore and enjoy your Travel Blog system!
+
+**Screenshots:**
+
+![Picture17](https://github.com/PraveenChavan-11/TravelBlog/assets/142572979/b18fcfdb-3cc7-4254-b8be-d0cfb7cf88cd)
+![Picture16](https://github.com/PraveenChavan-11/TravelBlog/assets/142572979/0ebb00e5-663c-408c-9464-e34f0facd10b)
+![Picture15](https://github.com/PraveenChavan-11/TravelBlog/assets/142572979/c17a0067-20e4-459c-82c6-b546b8fe77ae)
+![Picture14](https://github.com/PraveenChavan-11/TravelBlog/assets/142572979/7d3eac3e-dfa9-4851-b859-402c467f79e0)
+![Picture13](https://github.com/PraveenChavan-11/TravelBlog/assets/142572979/2f99ef28-80e5-45e3-986b-4222a2d72d92)
+![Picture12](https://github.com/PraveenChavan-11/TravelBlog/assets/142572979/3c0e4774-e258-43f3-9b6c-f0dbe2b48d1e)
+![Picture11](https://github.com/PraveenChavan-11/TravelBlog/assets/142572979/8cb1c049-9731-499f-b092-af13301b5399)
+![Picture4](https://github.com/PraveenChavan-11/TravelBlog/assets/142572979/317f906c-3998-4d2a-9482-9b86edb8f584)
+
